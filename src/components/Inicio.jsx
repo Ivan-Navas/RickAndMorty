@@ -2,6 +2,7 @@ import React from "react";
 import { useEffect, useState } from "react";
 import { allPersonajes } from "../functions/Funtions";
 import { BsCircleFill } from "react-icons/bs";
+import loading from '../images/loading.svg'
 
 function Inicio() {
   const [personajes, setPersonajes] = useState(null);
@@ -9,7 +10,7 @@ function Inicio() {
   useEffect(() => {
     allPersonajes(setPersonajes);
   }, []);
-
+    
   return (
     <>
       {personajes != null ? (
@@ -47,7 +48,9 @@ function Inicio() {
           ))}
         </div>
       ) : (
-        "No hay personajes"
+        <div className="loadingContainer">
+          <img src={loading} alt="Loading" />
+        </div>
       )}
     </>
   );
