@@ -1,7 +1,7 @@
 {
   "name": "rickandmorty",
   "private": true,
-  "homepage": "https://Ivan-Navas.github.io/RickAndMorty",
+  "homepage": "https://ivan-navas.github.io/RickAndMorty",
   "version": "0.0.0",
   "type": "module",
   "scripts": {

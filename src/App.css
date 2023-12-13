@@ -14,7 +14,7 @@ body {
   display: grid;
   grid-template-columns: 50% 50%;
   margin: 20px;
-  background: rgba(2552, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.2);
   border-radius: 16px;
   box-shadow: 0 4px 32px 0 rgba(31, 38, 135, 0.38);
   backdrop-filter: blur(4px);
