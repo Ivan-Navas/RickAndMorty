@@ -16,4 +16,4 @@ Al dar click en ver, en la tarjeta de cada personaje
 
 podras ver mas informacion sobre el 
 
-![OneCharacter](./readmeImages/rick.gif)
+![OneCharacter](https://res.cloudinary.com/ivannavas/image/upload/v1702504052/rick_rqpkmo.gif)
