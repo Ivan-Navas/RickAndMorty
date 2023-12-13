@@ -12,7 +12,7 @@ la pagina muestra un listado de personajes de la serie Rick&Morty, con algunos d
 
 Al dar click en ver, en la tarjeta de cada personaje
 
-![Characters](./readmeImages/personajes.jpg)
+![Characters](https://res.cloudinary.com/ivannavas/image/upload/v1702504745/Rick%20and%20Morty/Documentacion/personajes_pkrfjw.jpg)
 
 podras ver mas informacion sobre el 
 
